@@ -22,4 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 <h4>Leaderboard_WithoutData_Screen</h4>
 <img src="https://user-images.githubusercontent.com/67046451/161428595-30d5b68a-6bda-4729-8e4d-7497eb14d539.jpeg" width="150" height="280">
 <h4>Leaderboard_WithData_Screen</h4>
-<img src="(https://user-images.githubusercontent.com/67046451/161428713-3471a988-2233-4f1e-ba6f-cbeb7ee1ec45.jpeg)" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/67046451/161428858-f2224ebe-4481-4800-9124-d7ed01bed39c.jpeg" width="150" height="280">
+
